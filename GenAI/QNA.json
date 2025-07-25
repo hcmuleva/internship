@@ -12,6 +12,8 @@
             "output_types": [
               "Message"
             ]
+          // "Message" hello
+
           },
           "targetHandle": {
             "fieldName": "age",
